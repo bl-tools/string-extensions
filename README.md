@@ -10,5 +10,5 @@ Library provides extensions to String type to simplify code
             //var result = source.Contains(template, StringComparison.InvariantCultureIgnoreCase);
 			
             //new version
-            var result = source.ContainsIgnoreCase(template);//new version
+            var result = source.ContainsIgnoreCase(template);
 ```
