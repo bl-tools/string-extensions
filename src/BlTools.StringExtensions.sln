@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlTools.StringExtensions", "BlTools.StringExtensions\BlTools.StringExtensions.csproj", "{A17A1C5A-BC3F-4CE6-A81C-7C300C00B6C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlTools.StringExtensions.Tests.XUnit", "Tests\BlTools.StringExtensions.Tests.XUnit\BlTools.StringExtensions.Tests.XUnit.csproj", "{329F2124-CF09-446E-A1BA-8E19AAE8AE0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A17A1C5A-BC3F-4CE6-A81C-7C300C00B6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17A1C5A-BC3F-4CE6-A81C-7C300C00B6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17A1C5A-BC3F-4CE6-A81C-7C300C00B6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17A1C5A-BC3F-4CE6-A81C-7C300C00B6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329F2124-CF09-446E-A1BA-8E19AAE8AE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329F2124-CF09-446E-A1BA-8E19AAE8AE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329F2124-CF09-446E-A1BA-8E19AAE8AE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329F2124-CF09-446E-A1BA-8E19AAE8AE0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{329F2124-CF09-446E-A1BA-8E19AAE8AE0F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A6A663-C4F0-497E-B295-0EEA67088F76}
+	EndGlobalSection
+EndGlobal
