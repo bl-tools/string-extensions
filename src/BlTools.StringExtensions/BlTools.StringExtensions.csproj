@@ -8,14 +8,14 @@
     <RepositoryUrl>https://github.com/bl-tools/string-extensions</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <AssemblyVersion>0.1.0</AssemblyVersion>
+    <AssemblyVersion></AssemblyVersion>
     <Description>Library provides extensions to String type to simplify code</Description>
     <Authors>dreadfuljohndow@gmail.com</Authors>
     <Title>String extensions</Title>
     <Company>bl-tools</Company>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <FileVersion>0.1.0</FileVersion>
-    <Version>0.1.0</Version>
+    <FileVersion></FileVersion>
+    <Version>0.2.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
